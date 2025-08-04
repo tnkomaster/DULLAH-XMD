@@ -1,8 +1,14 @@
-<p align="center">
-ᴅᴜʟʟᴀʜ-xᴍᴅ v²
-</p>
+# ᴅᴜʟʟᴀʜ-xᴍᴅ v² 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +DULLAH;WHATSAPP+BOT+CREATED+BY+DULLAH" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://youtu.be/F3Cgi8ied1o">
+    <img alt="DULLAH-XMD" height="300" src="https://files.catbox.moe/533oqh.jpg">
+  </a>
+</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=FF5733&center=true&vCenter=true&width=910&height=100&lines=THIS+IS+DULLAH-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+DULLAH;PUBLIC+RELEASED+DATE;16/04/2025" alt="Typing SVG" />
+  </a>
   </p>
 
 <p align="center">
@@ -72,11 +78,11 @@ star✨ my repo bruh don't forget please🤖
 
  GET SESSION ID BY
  
-<a href="https://dullah-md-scanner.onrender.comqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://dullah-md-scanner.onrender.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
  
-<a href="https://dullah-md-scanner.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://dullah-xmd-scanner.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=brown&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 
 ## 3.THIRD STEP 
@@ -88,11 +94,13 @@ star✨ my repo bruh don't forget please🤖
 
    ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dullah-xmd-website.vercel.app/)***
 
-**DEPLOY ON RENDER**
+<!-- DEPLOY ON RENDER -->
 
-•If you don't have an account in RENDER, create one and deploy.
-    <br>
-    <a href='https://dashboard.render.com/github/exists?next=%2Fselect-repo%3Ftype%3Dweb%26appInstall%3D1/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+<p><strong>• If you don't have an account on Render, create one and deploy.</strong></p>
+
+<a href="https://dashboard.render.com/github/exists?next=%2Fselect-repo%3Ftype%3Dweb%26appInstall%3D1" target="_blank">
+  <img alt="DEPLOY" src="https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
 
 **•Koyeb and Render Deploy now available**
 
@@ -135,12 +143,12 @@ The WhatsApp Bot Dullah MD💫 is released under the [MIT License](https://opens
 
 ## DEVELOPERS :
          `don't change here`
-- [**DULLAH SIR**](https://github.com/abdallahsalimjuma)
-- [**DULLAH MD**](https://github.com/DULLAH_XMD)
-- [** SIR DULLAH TECH**](https://github.com/Frecyber)
-- [**Developers WA Group**](https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv)
-- [**Developers YouTube**](https://youtube.com/@herokuplatform)
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+## ⚠️ Reminder
+
+- This bot has no issues on the WhatsApp side, and it works perfectly on Heroku—100% safe and not banned. Use it for your WhatsApp activities and other things; it will help you a lot.
+.
 
 
 ★EVERYTHING SAY THANK YOU TO GOD. ©
